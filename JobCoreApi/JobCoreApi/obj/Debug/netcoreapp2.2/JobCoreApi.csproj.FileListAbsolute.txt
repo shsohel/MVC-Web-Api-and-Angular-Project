@@ -1,0 +1,55 @@
+F:\Nazmun Final Project\20190901\API_JOB\API_JOB\JobCoreApi\JobCoreApi\bin\Debug\netcoreapp2.2\JobCoreApi.deps.json
+F:\Nazmun Final Project\20190901\API_JOB\API_JOB\JobCoreApi\JobCoreApi\bin\Debug\netcoreapp2.2\JobCoreApi.runtimeconfig.json
+F:\Nazmun Final Project\20190901\API_JOB\API_JOB\JobCoreApi\JobCoreApi\bin\Debug\netcoreapp2.2\JobCoreApi.runtimeconfig.dev.json
+F:\Nazmun Final Project\20190901\API_JOB\API_JOB\JobCoreApi\JobCoreApi\bin\Debug\netcoreapp2.2\JobCoreApi.dll
+F:\Nazmun Final Project\20190901\API_JOB\API_JOB\JobCoreApi\JobCoreApi\bin\Debug\netcoreapp2.2\JobCoreApi.pdb
+F:\Nazmun Final Project\20190901\API_JOB\API_JOB\JobCoreApi\JobCoreApi\obj\Debug\netcoreapp2.2\JobCoreApi.csproj.CoreCompileInputs.cache
+F:\Nazmun Final Project\20190901\API_JOB\API_JOB\JobCoreApi\JobCoreApi\obj\Debug\netcoreapp2.2\JobCoreApi.RazorAssemblyInfo.cache
+F:\Nazmun Final Project\20190901\API_JOB\API_JOB\JobCoreApi\JobCoreApi\obj\Debug\netcoreapp2.2\JobCoreApi.RazorAssemblyInfo.cs
+F:\Nazmun Final Project\20190901\API_JOB\API_JOB\JobCoreApi\JobCoreApi\obj\Debug\netcoreapp2.2\JobCoreApi.AssemblyInfoInputs.cache
+F:\Nazmun Final Project\20190901\API_JOB\API_JOB\JobCoreApi\JobCoreApi\obj\Debug\netcoreapp2.2\JobCoreApi.AssemblyInfo.cs
+F:\Nazmun Final Project\20190901\API_JOB\API_JOB\JobCoreApi\JobCoreApi\obj\Debug\netcoreapp2.2\JobCoreApi.RazorTargetAssemblyInfo.cache
+F:\Nazmun Final Project\20190901\API_JOB\API_JOB\JobCoreApi\JobCoreApi\obj\Debug\netcoreapp2.2\JobCoreApi.dll
+F:\Nazmun Final Project\20190901\API_JOB\API_JOB\JobCoreApi\JobCoreApi\obj\Debug\netcoreapp2.2\JobCoreApi.pdb
+F:\Nazmun Final Project\20190901\API_JOB\API_JOB\JobCoreApi\JobCoreApi\obj\Debug\netcoreapp2.2\JobCoreApi.csprojAssemblyReference.cache
+F:\Nazmun Final Project\20190901\API_JOB\API_JOB\JobCoreApiNazmun\JobCoreApi\obj\Debug\netcoreapp2.2\JobCoreApi.csproj.CoreCompileInputs.cache
+F:\Nazmun Final Project\20190901\API_JOB\API_JOB\JobCoreApiNazmun\JobCoreApi\obj\Debug\netcoreapp2.2\JobCoreApi.RazorAssemblyInfo.cache
+F:\Nazmun Final Project\20190901\API_JOB\API_JOB\JobCoreApiNazmun\JobCoreApi\obj\Debug\netcoreapp2.2\JobCoreApi.RazorAssemblyInfo.cs
+F:\Nazmun Final Project\20190901\API_JOB\API_JOB\JobCoreApiNazmun\JobCoreApi\obj\Debug\netcoreapp2.2\JobCoreApi.AssemblyInfoInputs.cache
+F:\Nazmun Final Project\20190901\API_JOB\API_JOB\JobCoreApiNazmun\JobCoreApi\obj\Debug\netcoreapp2.2\JobCoreApi.AssemblyInfo.cs
+F:\Nazmun Final Project\20190901\API_JOB\API_JOB\JobCoreApiNazmun\JobCoreApi\obj\Debug\netcoreapp2.2\JobCoreApi.dll
+F:\Nazmun Final Project\20190901\API_JOB\API_JOB\JobCoreApiNazmun\JobCoreApi\obj\Debug\netcoreapp2.2\JobCoreApi.pdb
+F:\Nazmun Final Project\20190901\API_JOB\API_JOB\JobCoreApiNazmun\JobCoreApi\bin\Debug\netcoreapp2.2\JobCoreApi.deps.json
+F:\Nazmun Final Project\20190901\API_JOB\API_JOB\JobCoreApiNazmun\JobCoreApi\bin\Debug\netcoreapp2.2\JobCoreApi.runtimeconfig.json
+F:\Nazmun Final Project\20190901\API_JOB\API_JOB\JobCoreApiNazmun\JobCoreApi\bin\Debug\netcoreapp2.2\JobCoreApi.runtimeconfig.dev.json
+F:\Nazmun Final Project\20190901\API_JOB\API_JOB\JobCoreApiNazmun\JobCoreApi\bin\Debug\netcoreapp2.2\JobCoreApi.dll
+F:\Nazmun Final Project\20190901\API_JOB\API_JOB\JobCoreApiNazmun\JobCoreApi\bin\Debug\netcoreapp2.2\JobCoreApi.pdb
+F:\Nazmun Final Project\20190901\API_JOB\API_JOB\JobCoreApiNazmun\JobCoreApi\obj\Debug\netcoreapp2.2\JobCoreApi.RazorTargetAssemblyInfo.cache
+C:\Users\idb_c#\Desktop\JobCoreApiNazmun\JobCoreApi\obj\Debug\netcoreapp2.2\JobCoreApi.csproj.CoreCompileInputs.cache
+C:\Users\idb_c#\Desktop\JobCoreApiNazmun\JobCoreApi\obj\Debug\netcoreapp2.2\JobCoreApi.RazorAssemblyInfo.cache
+C:\Users\idb_c#\Desktop\JobCoreApiNazmun\JobCoreApi\obj\Debug\netcoreapp2.2\JobCoreApi.RazorAssemblyInfo.cs
+C:\Users\idb_c#\Desktop\JobCoreApiNazmun\JobCoreApi\obj\Debug\netcoreapp2.2\JobCoreApi.AssemblyInfoInputs.cache
+C:\Users\idb_c#\Desktop\JobCoreApiNazmun\JobCoreApi\obj\Debug\netcoreapp2.2\JobCoreApi.AssemblyInfo.cs
+C:\Users\idb_c#\Desktop\JobCoreApiNazmun\JobCoreApi\obj\Debug\netcoreapp2.2\JobCoreApi.dll
+C:\Users\idb_c#\Desktop\JobCoreApiNazmun\JobCoreApi\obj\Debug\netcoreapp2.2\JobCoreApi.pdb
+C:\Users\idb_c#\Desktop\JobCoreApiNazmun\JobCoreApi\bin\Debug\netcoreapp2.2\JobCoreApi.deps.json
+C:\Users\idb_c#\Desktop\JobCoreApiNazmun\JobCoreApi\bin\Debug\netcoreapp2.2\JobCoreApi.runtimeconfig.json
+C:\Users\idb_c#\Desktop\JobCoreApiNazmun\JobCoreApi\bin\Debug\netcoreapp2.2\JobCoreApi.runtimeconfig.dev.json
+C:\Users\idb_c#\Desktop\JobCoreApiNazmun\JobCoreApi\bin\Debug\netcoreapp2.2\JobCoreApi.dll
+C:\Users\idb_c#\Desktop\JobCoreApiNazmun\JobCoreApi\bin\Debug\netcoreapp2.2\JobCoreApi.pdb
+C:\Users\idb_c#\Desktop\JobCoreApiNazmun\JobCoreApi\obj\Debug\netcoreapp2.2\JobCoreApi.RazorTargetAssemblyInfo.cache
+C:\Users\idb_C#\Desktop\JobCoreApiNazmun\JobCoreApi\obj\Debug\netcoreapp2.2\JobCoreApi.csprojAssemblyReference.cache
+F:\Project Final\JobCoreApi\JobCoreApi\bin\Debug\netcoreapp2.2\JobCoreApi.deps.json
+F:\Project Final\JobCoreApi\JobCoreApi\bin\Debug\netcoreapp2.2\JobCoreApi.runtimeconfig.json
+F:\Project Final\JobCoreApi\JobCoreApi\bin\Debug\netcoreapp2.2\JobCoreApi.runtimeconfig.dev.json
+F:\Project Final\JobCoreApi\JobCoreApi\bin\Debug\netcoreapp2.2\JobCoreApi.dll
+F:\Project Final\JobCoreApi\JobCoreApi\bin\Debug\netcoreapp2.2\JobCoreApi.pdb
+F:\Project Final\JobCoreApi\JobCoreApi\obj\Debug\netcoreapp2.2\JobCoreApi.csproj.CoreCompileInputs.cache
+F:\Project Final\JobCoreApi\JobCoreApi\obj\Debug\netcoreapp2.2\JobCoreApi.RazorAssemblyInfo.cache
+F:\Project Final\JobCoreApi\JobCoreApi\obj\Debug\netcoreapp2.2\JobCoreApi.RazorAssemblyInfo.cs
+F:\Project Final\JobCoreApi\JobCoreApi\obj\Debug\netcoreapp2.2\JobCoreApi.AssemblyInfoInputs.cache
+F:\Project Final\JobCoreApi\JobCoreApi\obj\Debug\netcoreapp2.2\JobCoreApi.AssemblyInfo.cs
+F:\Project Final\JobCoreApi\JobCoreApi\obj\Debug\netcoreapp2.2\JobCoreApi.RazorTargetAssemblyInfo.cache
+F:\Project Final\JobCoreApi\JobCoreApi\obj\Debug\netcoreapp2.2\JobCoreApi.dll
+F:\Project Final\JobCoreApi\JobCoreApi\obj\Debug\netcoreapp2.2\JobCoreApi.pdb
+F:\Project Final\JobCoreApi\JobCoreApi\obj\Debug\netcoreapp2.2\JobCoreApi.csprojAssemblyReference.cache
