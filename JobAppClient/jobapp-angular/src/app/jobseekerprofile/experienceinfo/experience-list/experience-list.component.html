@@ -1,0 +1,29 @@
+
+<div class="container">
+  <div class="col-md-12">
+    <app-navpersonalinfo></app-navpersonalinfo>
+  </div>
+  <div class="col-md-12">
+      <table class="table table-responsive">
+          <tr *ngFor="let exp of service.list">
+            <td (click)="populateForm(exp)" > {{exp.ExperienceID}} </td>
+            <td (click)="populateForm(exp)" > {{exp.CompanyName}}</td>
+            <td (click)="populateForm(exp)" >{{exp.CompnayBusiness}}</td>
+            <td (click)="populateForm(exp)" >{{exp.CompanyLocation}}</td>
+            <td (click)="populateForm(exp)" >{{exp.Designation}}</td>
+            <td (click)="populateForm(exp)" >{{exp.Department}}</td>
+            <td (click)="populateForm(exp)" >{{exp.Responsibilities}}</td>
+            <td (click)="populateForm(exp)" >{{exp.StartDate}}</td>
+            <td (click)="populateForm(exp)" >{{exp.EndDate}}</td>
+            <td (click)="populateForm(exp)" >{{exp.IsContinue}}</td>  
+            <td (click)="populateForm(exp)" >{{exp.PersonalDetailID}}</td>            
+            <td>       
+            <!---   <button (click)="onDelete(pdetails.JobListID)" class="btn btn-sm btn-outline-danger"> <i class="fa fa-trash" aria-hidden="true"></i></button>-->      
+            </td>        
+          </tr>
+        </table>
+  </div>
+  <div class="col-md-12">
+    <router-outlet></router-outlet>
+  </div>
+  </div>

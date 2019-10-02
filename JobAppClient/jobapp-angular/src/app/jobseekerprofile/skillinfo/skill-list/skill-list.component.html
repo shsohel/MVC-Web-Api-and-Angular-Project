@@ -1,0 +1,23 @@
+
+<div class="container">
+  <div class="col-md-12">
+    <app-navpersonalinfo></app-navpersonalinfo>
+  </div>
+  <div class="col-md-12">
+      <table class="table table-responsive">
+          <tr *ngFor="let skillitem of service.list">
+            <td (click)="populateForm(skillitem)" > {{skillitem.SkillID}} </td>
+            <td (click)="populateForm(skillitem)" > {{skillitem.SkillName}}</td>
+            <td (click)="populateForm(skillitem)" >{{skillitem.PersonalDetailID}}</td>
+       
+            <td>       
+            <!---   <button (click)="onDelete(skillitem.SkillID)" class="btn btn-sm btn-outline-danger"> <i class="fa fa-trash" aria-hidden="true"></i></button>-->      
+            </td>        
+          </tr>
+        </table>
+        
+  </div>
+  <div class="col-md-12">
+    <router-outlet></router-outlet>
+  </div>
+  </div>

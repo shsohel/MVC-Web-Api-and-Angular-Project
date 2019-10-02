@@ -1,0 +1,29 @@
+
+<div class="container">
+  <div class="col-md-12">
+    <app-employeernav></app-employeernav>
+  </div>
+
+  <div class="col-md-12">
+      <table class="table table-responsive">
+          <tr *ngFor="let empl of service.list">
+            <td (click)="populateForm(empl)" > {{empl.EmployerID}} </td>
+            <td (click)="populateForm(empl)" > {{empl.UserName}}</td>
+            <td (click)="populateForm(empl)" >{{empl.CompanyName}}</td>
+            <td (click)="populateForm(empl)" >{{empl.Catageory}}</td>
+            <td (click)="populateForm(empl)" >{{empl.BusinessDescription}}</td>
+            <td (click)="populateForm(empl)" >{{empl.WebsiteUrl}}</td>
+            <td (click)="populateForm(empl)" >{{empl.PhoneNumber}}</td>
+            <td (click)="populateForm(empl)" >{{empl.TelePhone}}</td>
+            <td (click)="populateForm(empl)" >{{empl.Fax}}</td>
+            <td (click)="populateForm(empl)" >{{empl.Email}}</td>             
+            <td>       
+            <!---   <button (click)="onDelete(empl.EmployerID)" class="btn btn-sm btn-outline-danger"> <i class="fa fa-trash" aria-hidden="true"></i></button>-->      
+            </td>        
+          </tr>
+        </table>
+  </div>
+  <div class="col-md-12">
+    <router-outlet></router-outlet>
+  </div>
+  </div>

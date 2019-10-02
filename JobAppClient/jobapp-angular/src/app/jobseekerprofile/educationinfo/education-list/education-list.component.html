@@ -1,0 +1,30 @@
+
+<div class="container">
+    <div class="col-md-12">
+      <app-navpersonalinfo></app-navpersonalinfo>
+    </div>
+    <div class="col-md-12">
+        <table class="table table-responsive">
+            <tr *ngFor="let edu of service.list">
+              <td (click)="populateForm(edu)" > {{edu.EducationID}} </td>
+              <td (click)="populateForm(edu)" > {{edu.LevelOfEducation}}</td>
+              <td (click)="populateForm(edu)" >{{edu.CGPA}}</td>
+              <td (click)="populateForm(edu)" >{{edu.Scale}}</td>
+              <td (click)="populateForm(edu)" >{{edu.DegreeTitle}}</td>
+              <td (click)="populateForm(edu)" >{{edu.Group}}</td>
+              <td (click)="populateForm(edu)" >{{edu.Institute}}</td>
+              <td (click)="populateForm(edu)" >{{edu.PassingYear}}</td>
+              <td (click)="populateForm(edu)" >{{edu.Duration}}</td>
+              <td (click)="populateForm(edu)" >{{edu.Achievement}}</td>  
+              <td (click)="populateForm(edu)" >{{edu.PersonalDetailID}}</td>            
+
+              <td>       
+              <!---   <button (click)="onDelete(pdetails.JobListID)" class="btn btn-sm btn-outline-danger"> <i class="fa fa-trash" aria-hidden="true"></i></button>-->      
+              </td>        
+            </tr>
+          </table>
+    </div>
+    <div class="col-md-12">
+      <router-outlet></router-outlet>
+    </div>
+    </div>

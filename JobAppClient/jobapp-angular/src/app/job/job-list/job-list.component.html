@@ -1,0 +1,18 @@
+<table class="table table-hover">
+    <tr *ngFor="let job of service.list">
+      <td (click)="populateForm(job)">{{job.EmployerID}}</td>
+      <td (click)="populateForm(job)">{{job.Position}}</td>
+      <td (click)="populateForm(job)">{{job.NumberofPost}}</td>
+      <td (click)="populateForm(job)">{{job.SalaryScale}}</td>
+      <td (click)="populateForm(job)">{{job.AgeLimit}}</td>
+      <td (click)="populateForm(job)">{{job.EducationRequirement}}</td>
+      <td (click)="populateForm(job)">{{job.LastDateofApplication}}</td>
+      <td (click)="populateForm(job)">{{job.IsApprove}}</td>
+      <td>
+        
+        <button (click)="onDelete(job.JobListID)" class="btn btn-sm btn-outline-danger"> <i class="fa fa-trash" aria-hidden="true"></i></button>
+      <!--- <a class="btn btn-primary" [routerLink]="['/home/',job.JobListID]"> Edit</a>--> 
+      </td>
+     
+    </tr>
+  </table>

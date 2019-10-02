@@ -1,0 +1,66 @@
+<div class="container">
+  <div >
+    <form #form="ngForm" (submit)="onSubmit(form)" autocomplete="off">
+      <div >
+        <div class="form-group " hidden>
+            <label > JobListID ID</label>
+            <input name="JobListID" #JobListID="ngModel" [(ngModel)]="service.formData.JobListID" class="form-control"> 
+          </div>
+      <div class="form-group ">
+        <label > Employee ID</label>
+        <input name="EmployerID" #EmployerID="ngModel" [(ngModel)]="service.formData.EmployerID" class="form-control" required> 
+        <div class="alert alert-danger" *ngIf="EmployerID.invalid && EmployerID.touched">This Employerr ID is required!!!!</div>
+      </div>
+      
+    
+      <div class="form-group">
+        <label > Position</label>
+        <input name="Position" #Position="ngModel" [(ngModel)]="service.formData.Position" class="form-control">
+        <div class="alert alert-danger" *ngIf="Position.invalid && Position.touched">This field is required!!!!</div>
+
+      </div>
+      
+      <div class="form-group">
+        <label > Number of Post</label>
+        <input name="NumberofPost" #NumberofPost="ngModel" [(ngModel)]="service.formData.NumberofPost" class="form-control">
+      </div>
+      
+      <div class="form-group">
+        <label > Salary Scale</label>
+        <input name="SalaryScale" #SalaryScale="ngModel" [(ngModel)]="service.formData.SalaryScale" class="form-control">
+      </div>
+      
+      
+      <div class="form-group">
+        <label > Age Limit</label>
+        <input name="AgeLimit" #AgeLimit="ngModel" [(ngModel)]="service.formData.AgeLimit" class="form-control">
+      </div>
+      
+      <div class="form-group">
+        <label > Education Requirement</label>
+        <input name="EducationRequirement" #EducationRequirement="ngModel" [(ngModel)]="service.formData.EducationRequirement" class="form-control">
+      </div>
+      
+      
+      <div class="form-group">
+        <label > Last Date of Application</label>
+        <input type="date" name="LastDateofApplication" #LastDateofApplication="ngModel" [(ngModel)]="service.formData.LastDateofApplication" class="form-control">
+      </div>
+      
+      
+      <div class="form-group" hidden>
+        <label > Is Approve</label>
+        <input name="IsApprove" value="0" #IsApprove="ngModel" [(ngModel)]="service.formData.IsApprove" class="form-control">
+      </div>
+      
+      <div class="form-group">
+        <button type="submit" [disabled]="form.invalid" *ngIf="!service.formData.JobListID" class="btn btn-primary">Create</button>
+        <input type="submit" class="btn btn-info" value="Update" *ngIf="service.formData.JobListID" />
+      </div>
+      </div>
+      </form>
+  </div>
+</div>
+
+
+  

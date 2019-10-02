@@ -1,0 +1,29 @@
+ 
+ <div class="container">
+    <div class="col-md-12">
+    <app-navigation></app-navigation>
+    </div>
+<div class="wrapper">
+  <h3 class="text-center"> Employeer </h3>
+  <div class="wrapped-div">
+    <div class="tab-header">
+      <h2 class="text-success"  routerLink='/emplregister/login' routerLinkActive='active'>Sign In</h2>
+      <h2 class="text-primary"  routerLink='/emplregister/signup' routerLinkActive='active'>Sign Up</h2>
+    </div>
+    <div class="row">
+      <div class="col-md-10 offset-md-1">
+        <router-outlet></router-outlet>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div style="height: 200px;">
+
+</div>
+
+<div class="col-md-12">
+  <app-footer></app-footer>
+</div>
+
+  </div>
